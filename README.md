@@ -6,7 +6,7 @@ Usage:
 
 - `yarn install`
 
-- fill in all of the functions with a pattern of ':functionName:.js'
+- fill in all of the functions with a pattern of '`<functionName>`.js'
 
 - run `node testFunctions`
 
