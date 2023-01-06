@@ -4,6 +4,8 @@ A tool to check your arrays and objects exercises
 
 Usage:
 
+- clone this repository
+
 - `yarn install`
 
 - fill in all of the functions with a pattern of '`<functionName>`.js'
