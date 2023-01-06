@@ -1,0 +1,13 @@
+{
+  "name": "youcode-lists-objects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Monsy99/youcode-lists-objects.git",
+  "author": "Szymon Marczuk <szymon.marczuk@arcsoftware.it>",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "node-emoji": "^1.11.0"
+  }
+}
